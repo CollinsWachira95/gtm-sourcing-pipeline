@@ -1,0 +1,121 @@
+rank,company_name,icp_score,signals,prompt,draft
+1,Telio,6,PE-backed (a PE owner is likely pushing consolidated reporting); recent acquisition (integrating the new entity creates reporting pain); multi-entity (consolidation across subsidiaries is a current pain),"You are drafting a first-touch email to a German CFO.
+
+Company: Telio
+City: Hamburg
+Signals we identified: PE-backed (a PE owner is likely pushing consolidated reporting); recent acquisition (integrating the new entity creates reporting pain); multi-entity (consolidation across subsidiaries is a current pain)
+Product: ARC Intelligence — an AI-native Finance OS that connects ERP systems
+and consolidates finance data for Mittelstand CFOs.
+
+Write 3–4 sentences maximum. Direct, respectful, not salesy. Reference the
+signal as the hook. Close with a specific question (not ""let me know if you're
+interested""). Do not invent facts about the company.
+",
+2,Netzkontor,6,PE-backed (a PE owner is likely pushing consolidated reporting); recent acquisition (integrating the new entity creates reporting pain); multi-entity (consolidation across subsidiaries is a current pain),"You are drafting a first-touch email to a German CFO.
+
+Company: Netzkontor
+City: Flensburg
+Signals we identified: PE-backed (a PE owner is likely pushing consolidated reporting); recent acquisition (integrating the new entity creates reporting pain); multi-entity (consolidation across subsidiaries is a current pain)
+Product: ARC Intelligence — an AI-native Finance OS that connects ERP systems
+and consolidates finance data for Mittelstand CFOs.
+
+Write 3–4 sentences maximum. Direct, respectful, not salesy. Reference the
+signal as the hook. Close with a specific question (not ""let me know if you're
+interested""). Do not invent facts about the company.
+",
+3,Bode,5,PE-backed (a PE owner is likely pushing consolidated reporting); recent acquisition (integrating the new entity creates reporting pain),"You are drafting a first-touch email to a German CFO.
+
+Company: Bode
+City: Kassel
+Signals we identified: PE-backed (a PE owner is likely pushing consolidated reporting); recent acquisition (integrating the new entity creates reporting pain)
+Product: ARC Intelligence — an AI-native Finance OS that connects ERP systems
+and consolidates finance data for Mittelstand CFOs.
+
+Write 3–4 sentences maximum. Direct, respectful, not salesy. Reference the
+signal as the hook. Close with a specific question (not ""let me know if you're
+interested""). Do not invent facts about the company.
+",
+4,LMX Holding GmbH (to be renamed ATEVO Holding GmbH),4,PE-backed (a PE owner is likely pushing consolidated reporting); multi-entity (consolidation across subsidiaries is a current pain),"You are drafting a first-touch email to a German CFO.
+
+Company: LMX Holding GmbH (to be renamed ATEVO Holding GmbH)
+City: Leipzig
+Signals we identified: PE-backed (a PE owner is likely pushing consolidated reporting); multi-entity (consolidation across subsidiaries is a current pain)
+Product: ARC Intelligence — an AI-native Finance OS that connects ERP systems
+and consolidates finance data for Mittelstand CFOs.
+
+Write 3–4 sentences maximum. Direct, respectful, not salesy. Reference the
+signal as the hook. Close with a specific question (not ""let me know if you're
+interested""). Do not invent facts about the company.
+",
+5,Blasius Schuster Group,4,PE-backed (a PE owner is likely pushing consolidated reporting); multi-entity (consolidation across subsidiaries is a current pain),"You are drafting a first-touch email to a German CFO.
+
+Company: Blasius Schuster Group
+City: Germany
+Signals we identified: PE-backed (a PE owner is likely pushing consolidated reporting); multi-entity (consolidation across subsidiaries is a current pain)
+Product: ARC Intelligence — an AI-native Finance OS that connects ERP systems
+and consolidates finance data for Mittelstand CFOs.
+
+Write 3–4 sentences maximum. Direct, respectful, not salesy. Reference the
+signal as the hook. Close with a specific question (not ""let me know if you're
+interested""). Do not invent facts about the company.
+",
+6,Aagon GmbH,3,PE-backed (a PE owner is likely pushing consolidated reporting),"You are drafting a first-touch email to a German CFO.
+
+Company: Aagon GmbH
+City: Soest
+Signals we identified: PE-backed (a PE owner is likely pushing consolidated reporting)
+Product: ARC Intelligence — an AI-native Finance OS that connects ERP systems
+and consolidates finance data for Mittelstand CFOs.
+
+Write 3–4 sentences maximum. Direct, respectful, not salesy. Reference the
+signal as the hook. Close with a specific question (not ""let me know if you're
+interested""). Do not invent facts about the company.
+",
+7,Oechsler AG,3,PE-backed (a PE owner is likely pushing consolidated reporting),"You are drafting a first-touch email to a German CFO.
+
+Company: Oechsler AG
+City: Ansbach
+Signals we identified: PE-backed (a PE owner is likely pushing consolidated reporting)
+Product: ARC Intelligence — an AI-native Finance OS that connects ERP systems
+and consolidates finance data for Mittelstand CFOs.
+
+Write 3–4 sentences maximum. Direct, respectful, not salesy. Reference the
+signal as the hook. Close with a specific question (not ""let me know if you're
+interested""). Do not invent facts about the company.
+",
+8,akquinet,3,PE-backed (a PE owner is likely pushing consolidated reporting),"You are drafting a first-touch email to a German CFO.
+
+Company: akquinet
+City: Hamburg
+Signals we identified: PE-backed (a PE owner is likely pushing consolidated reporting)
+Product: ARC Intelligence — an AI-native Finance OS that connects ERP systems
+and consolidates finance data for Mittelstand CFOs.
+
+Write 3–4 sentences maximum. Direct, respectful, not salesy. Reference the
+signal as the hook. Close with a specific question (not ""let me know if you're
+interested""). Do not invent facts about the company.
+",
+9,Cloudflight,3,PE-backed (a PE owner is likely pushing consolidated reporting),"You are drafting a first-touch email to a German CFO.
+
+Company: Cloudflight
+City: München
+Signals we identified: PE-backed (a PE owner is likely pushing consolidated reporting)
+Product: ARC Intelligence — an AI-native Finance OS that connects ERP systems
+and consolidates finance data for Mittelstand CFOs.
+
+Write 3–4 sentences maximum. Direct, respectful, not salesy. Reference the
+signal as the hook. Close with a specific question (not ""let me know if you're
+interested""). Do not invent facts about the company.
+",
+10,congatec,3,PE-backed (a PE owner is likely pushing consolidated reporting),"You are drafting a first-touch email to a German CFO.
+
+Company: congatec
+City: Deggendorf
+Signals we identified: PE-backed (a PE owner is likely pushing consolidated reporting)
+Product: ARC Intelligence — an AI-native Finance OS that connects ERP systems
+and consolidates finance data for Mittelstand CFOs.
+
+Write 3–4 sentences maximum. Direct, respectful, not salesy. Reference the
+signal as the hook. Close with a specific question (not ""let me know if you're
+interested""). Do not invent facts about the company.
+",
