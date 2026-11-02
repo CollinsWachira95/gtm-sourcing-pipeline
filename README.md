@@ -48,7 +48,7 @@ We generated programmatic prompts for the Top 10 companies and used an LLM to dr
 * **Dashboard:** The Looker Studio dashboard visualizes the score distribution, highlighting the 22-company tie at score 3 as an honest reflection of the data.
 
 <img width="604" height="384" alt="ScreenShot Tool -20261102194934" src="https://github.com/user-attachments/assets/1b2c6f1f-1ae3-423b-adc4-cbf777c16711" />
-<img width="1920" height="869" alt="ScreenShot Tool -20261102193758" src="https://github.com/user-attachments/assets/865e4db8-f3c8-4edf-8e2a-a4fb9ae7eeda" />
+<img width="1920" height="869" alt="ScreenShot Tool -20261102192351" src="https://github.com/user-attachments/assets/ce5cbcc5-193c-45f1-9669-488bee529f21" />
 
 
 ## Tech Stack
